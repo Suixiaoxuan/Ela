@@ -1,0 +1,337 @@
+{
+    "classes": [
+        {
+            "className": "ElaAcrylicUrlCard",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "read": "getBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBorderRadius"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pMainOpacity",
+                    "notify": "pMainOpacityChanged",
+                    "read": "getMainOpacity",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setMainOpacity"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pNoiseOpacity",
+                    "notify": "pNoiseOpacityChanged",
+                    "read": "getNoiseOpacity",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setNoiseOpacity"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "pBrushAlpha",
+                    "notify": "pBrushAlphaChanged",
+                    "read": "getBrushAlpha",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBrushAlpha"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "pTitle",
+                    "notify": "pTitleChanged",
+                    "read": "getTitle",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setTitle"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "name": "pSubTitle",
+                    "notify": "pSubTitleChanged",
+                    "read": "getSubTitle",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setSubTitle"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "name": "pTitlePixelSize",
+                    "notify": "pTitlePixelSizeChanged",
+                    "read": "getTitlePixelSize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setTitlePixelSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "name": "pSubTitlePixelSize",
+                    "notify": "pSubTitlePixelSizeChanged",
+                    "read": "getSubTitlePixelSize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setSubTitlePixelSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 8,
+                    "name": "pTitleSpacing",
+                    "notify": "pTitleSpacingChanged",
+                    "read": "getTitleSpacing",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setTitleSpacing"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 9,
+                    "name": "pSubTitleSpacing",
+                    "notify": "pSubTitleSpacingChanged",
+                    "read": "getSubTitleSpacing",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setSubTitleSpacing"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 10,
+                    "name": "pCardPixmap",
+                    "notify": "pCardPixmapChanged",
+                    "read": "getCardPixmap",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QPixmap",
+                    "user": false,
+                    "write": "setCardPixmap"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 11,
+                    "name": "pCardPixmapSize",
+                    "notify": "pCardPixmapSizeChanged",
+                    "read": "getCardPixmapSize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QSize",
+                    "user": false,
+                    "write": "setCardPixmapSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 12,
+                    "name": "pCardPixmapBorderRadius",
+                    "notify": "pCardPixmapBorderRadiusChanged",
+                    "read": "getCardPixmapBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setCardPixmapBorderRadius"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 13,
+                    "name": "pCardPixMode",
+                    "notify": "pCardPixModeChanged",
+                    "read": "getCardPixMode",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaCardPixType::PixMode",
+                    "user": false,
+                    "write": "setCardPixMode"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 14,
+                    "name": "pUrl",
+                    "notify": "pUrlChanged",
+                    "read": "getUrl",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setUrl"
+                }
+            ],
+            "qualifiedClassName": "ElaAcrylicUrlCard",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pMainOpacityChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pNoiseOpacityChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pBrushAlphaChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "pTitleChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "pSubTitleChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "name": "pTitlePixelSizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 7,
+                    "name": "pSubTitlePixelSizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 8,
+                    "name": "pTitleSpacingChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "name": "pSubTitleSpacingChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 10,
+                    "name": "pCardPixmapChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 11,
+                    "name": "pCardPixmapSizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 12,
+                    "name": "pCardPixmapBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 13,
+                    "name": "pCardPixModeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 14,
+                    "name": "pUrlChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QPushButton"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaAcrylicUrlCard.h",
+    "outputRevision": 69
+}

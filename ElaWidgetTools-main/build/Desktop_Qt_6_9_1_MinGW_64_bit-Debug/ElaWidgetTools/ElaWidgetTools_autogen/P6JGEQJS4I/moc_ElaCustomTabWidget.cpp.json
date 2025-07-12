@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaCustomTabWidget",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaCustomTabWidget",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "ElaCustomWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCustomTabWidget.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaRadioButtonPrivate",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaRadioButtonPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onThemeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaRadioButtonPrivate.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaToolButtonPrivate",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaToolButtonPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaToolButtonPrivate.h",
+    "outputRevision": 69
+}

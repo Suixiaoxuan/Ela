@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaScrollPageAreaPrivate",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaScrollPageAreaPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaScrollPageAreaPrivate.h",
+    "outputRevision": 69
+}

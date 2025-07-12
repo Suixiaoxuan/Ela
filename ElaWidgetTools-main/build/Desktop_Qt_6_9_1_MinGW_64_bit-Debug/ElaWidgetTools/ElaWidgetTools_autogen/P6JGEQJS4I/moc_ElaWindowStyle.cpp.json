@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaWindowStyle",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaWindowStyle",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaWindowStyle.h",
+    "outputRevision": 69
+}

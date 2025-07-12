@@ -1,0 +1,106 @@
+{
+    "classes": [
+        {
+            "className": "ElaImageCard",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pCardImage",
+                    "notify": "pCardImageChanged",
+                    "read": "getCardImage",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QImage",
+                    "user": false,
+                    "write": "setCardImage"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "read": "getBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBorderRadius"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pIsPreserveAspectCrop",
+                    "notify": "pIsPreserveAspectCropChanged",
+                    "read": "getIsPreserveAspectCrop",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsPreserveAspectCrop"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "pMaximumAspectRatio",
+                    "notify": "pMaximumAspectRatioChanged",
+                    "read": "getMaximumAspectRatio",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setMaximumAspectRatio"
+                }
+            ],
+            "qualifiedClassName": "ElaImageCard",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pCardImageChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pIsPreserveAspectCropChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pMaximumAspectRatioChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaImageCard.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,62 @@
+{
+    "classes": [
+        {
+            "className": "ElaTableViewStyle",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pHeaderMargin",
+                    "name": "pHeaderMargin",
+                    "notify": "pHeaderMarginChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_pCurrentHoverRow",
+                    "name": "pCurrentHoverRow",
+                    "notify": "pCurrentHoverRowChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaTableViewStyle",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pHeaderMarginChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pCurrentHoverRowChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTableViewStyle.h",
+    "outputRevision": 69
+}

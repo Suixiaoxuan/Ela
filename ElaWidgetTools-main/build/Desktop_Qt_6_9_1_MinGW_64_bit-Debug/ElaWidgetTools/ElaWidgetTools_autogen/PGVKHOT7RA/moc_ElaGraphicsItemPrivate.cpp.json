@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaGraphicsItemPrivate",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaGraphicsItemPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaGraphicsItemPrivate.h",
+    "outputRevision": 69
+}

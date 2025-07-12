@@ -1,0 +1,67 @@
+{
+    "classes": [
+        {
+            "className": "ElaMultiSelectComboBox",
+            "lineNumber": 7,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "read": "getBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBorderRadius"
+                }
+            ],
+            "qualifiedClassName": "ElaMultiSelectComboBox",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "itemSelection",
+                            "type": "QList<bool>"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "itemSelectionChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "selectedTextList",
+                            "type": "QStringList"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "currentTextListChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QComboBox"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMultiSelectComboBox.h",
+    "outputRevision": 69
+}

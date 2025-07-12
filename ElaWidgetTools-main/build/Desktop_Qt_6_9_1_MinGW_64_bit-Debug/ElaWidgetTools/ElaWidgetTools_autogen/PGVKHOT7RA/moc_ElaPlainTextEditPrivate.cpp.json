@@ -1,0 +1,46 @@
+{
+    "classes": [
+        {
+            "className": "ElaPlainTextEditPrivate",
+            "lineNumber": 10,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "onWMWindowClickedEvent",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "ElaPlainTextEditPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onThemeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPlainTextEditPrivate.h",
+    "outputRevision": 69
+}

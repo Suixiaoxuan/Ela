@@ -1,0 +1,127 @@
+{
+    "classes": [
+        {
+            "className": "ElaText",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pIsWrapAnywhere",
+                    "notify": "pIsWrapAnywhereChanged",
+                    "read": "getIsWrapAnywhere",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsWrapAnywhere"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pTextPixelSize",
+                    "notify": "pTextPixelSizeChanged",
+                    "read": "getTextPixelSize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setTextPixelSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pTextPointSize",
+                    "notify": "pTextPointSizeChanged",
+                    "read": "getTextPointSize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setTextPointSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "pTextStyle",
+                    "notify": "pTextStyleChanged",
+                    "read": "getTextStyle",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaTextType::TextStyle",
+                    "user": false,
+                    "write": "setTextStyle"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "pElaIcon",
+                    "notify": "pElaIconChanged",
+                    "read": "getElaIcon",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaIconType::IconName",
+                    "user": false,
+                    "write": "setElaIcon"
+                }
+            ],
+            "qualifiedClassName": "ElaText",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pIsWrapAnywhereChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pTextPixelSizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pTextPointSizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pTextStyleChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "pElaIconChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QLabel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaText.h",
+    "outputRevision": 69
+}

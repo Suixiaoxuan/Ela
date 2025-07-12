@@ -1,0 +1,9 @@
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/QUYU2.dir
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/QUYU2_autogen_timestamp_deps.dir
+C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/QUYU2_autogen.dir

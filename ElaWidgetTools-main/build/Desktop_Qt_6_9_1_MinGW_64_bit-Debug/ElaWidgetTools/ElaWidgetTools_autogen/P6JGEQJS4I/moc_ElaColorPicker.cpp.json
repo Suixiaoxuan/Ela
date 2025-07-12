@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaColorPicker",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaColorPicker",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "selectedColor",
+                            "type": "QColor"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "selectedColorChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaColorPicker.h",
+    "outputRevision": 69
+}

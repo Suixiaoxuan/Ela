@@ -1,0 +1,55 @@
+{
+    "classes": [
+        {
+            "className": "ElaCalendarPicker",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "read": "getBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBorderRadius"
+                }
+            ],
+            "qualifiedClassName": "ElaCalendarPicker",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "date",
+                            "type": "QDate"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "selectedDateChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QPushButton"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCalendarPicker.h",
+    "outputRevision": 69
+}

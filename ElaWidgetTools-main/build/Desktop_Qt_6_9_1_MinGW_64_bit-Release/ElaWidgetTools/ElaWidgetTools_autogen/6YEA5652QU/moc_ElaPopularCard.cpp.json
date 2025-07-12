@@ -1,0 +1,223 @@
+{
+    "classes": [
+        {
+            "className": "ElaPopularCard",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "read": "getBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBorderRadius"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pCardPixmap",
+                    "notify": "pCardPixmapChanged",
+                    "read": "getCardPixmap",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QPixmap",
+                    "user": false,
+                    "write": "setCardPixmap"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pTitle",
+                    "notify": "pTitleChanged",
+                    "read": "getTitle",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setTitle"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "pSubTitle",
+                    "notify": "pSubTitleChanged",
+                    "read": "getSubTitle",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setSubTitle"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "pInteractiveTips",
+                    "notify": "pInteractiveTipsChanged",
+                    "read": "getInteractiveTips",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setInteractiveTips"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "name": "pDetailedText",
+                    "notify": "pDetailedTextChanged",
+                    "read": "getDetailedText",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setDetailedText"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "name": "pCardButtonText",
+                    "notify": "pCardButtonTextChanged",
+                    "read": "getCardButtonText",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setCardButtonText"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "name": "pCardFloatArea",
+                    "notify": "pCardFloatAreaChanged",
+                    "read": "getCardFloatArea",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QWidget*",
+                    "user": false,
+                    "write": "setCardFloatArea"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 8,
+                    "name": "pCardFloatPixmap",
+                    "notify": "pCardFloatPixmapChanged",
+                    "read": "getCardFloatPixmap",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QPixmap",
+                    "user": false,
+                    "write": "setCardFloatPixmap"
+                }
+            ],
+            "qualifiedClassName": "ElaPopularCard",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pCardPixmapChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pTitleChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pSubTitleChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "pInteractiveTipsChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "pDetailedTextChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "name": "pCardButtonTextChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 7,
+                    "name": "pCardFloatAreaChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 8,
+                    "name": "pCardFloatPixmapChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "name": "popularCardClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 10,
+                    "name": "popularCardButtonClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPopularCard.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaPushButtonPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaPushButtonPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPushButtonPrivate.h",
+    "outputRevision": 69
+}

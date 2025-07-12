@@ -1,0 +1,80 @@
+{
+    "classes": [
+        {
+            "className": "ElaBreadcrumbBar",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pTextPixelSize",
+                    "notify": "pTextPixelSizeChanged",
+                    "read": "getTextPixelSize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setTextPixelSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pIsAutoRemove",
+                    "notify": "pIsAutoRemoveChanged",
+                    "read": "getIsAutoRemove",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsAutoRemove"
+                }
+            ],
+            "qualifiedClassName": "ElaBreadcrumbBar",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pTextPixelSizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pIsAutoRemoveChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "breadcrumb",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "lastBreadcrumbList",
+                            "type": "QStringList"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "breadcrumbClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaBreadcrumbBar.h",
+    "outputRevision": 69
+}

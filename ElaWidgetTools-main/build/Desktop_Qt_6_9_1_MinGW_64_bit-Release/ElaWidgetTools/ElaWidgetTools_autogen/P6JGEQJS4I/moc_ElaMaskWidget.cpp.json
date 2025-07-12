@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "className": "ElaMaskWidget",
+            "lineNumber": 7,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pMaskAlpha",
+                    "name": "pMaskAlpha",
+                    "notify": "pMaskAlphaChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaMaskWidget",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pMaskAlphaChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMaskWidget.h",
+    "outputRevision": 69
+}

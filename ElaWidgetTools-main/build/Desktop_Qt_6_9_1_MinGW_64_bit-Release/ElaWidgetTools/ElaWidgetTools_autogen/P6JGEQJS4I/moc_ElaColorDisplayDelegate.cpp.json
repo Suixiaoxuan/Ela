@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaColorDisplayDelegate",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaColorDisplayDelegate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QStyledItemDelegate"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaColorDisplayDelegate.h",
+    "outputRevision": 69
+}

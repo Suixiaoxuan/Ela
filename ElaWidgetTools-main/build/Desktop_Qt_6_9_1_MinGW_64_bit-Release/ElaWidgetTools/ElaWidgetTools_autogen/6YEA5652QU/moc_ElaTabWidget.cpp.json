@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "className": "ElaTabWidget",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pIsTabTransparent",
+                    "name": "pIsTabTransparent",
+                    "notify": "pIsTabTransparentChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaTabWidget",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pIsTabTransparentChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QTabWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTabWidget.h",
+    "outputRevision": 69
+}

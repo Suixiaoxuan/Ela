@@ -1,0 +1,38 @@
+{
+    "classes": [
+        {
+            "className": "ElaDxgiManagerPrivate",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaDxgiManagerPrivate",
+            "signals": [
+                {
+                    "access": "private",
+                    "index": 0,
+                    "name": "grabScreen",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "className": "ElaDxgiScreenPrivate",
+            "lineNumber": 25,
+            "object": true,
+            "qualifiedClassName": "ElaDxgiScreenPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaDxgiManagerPrivate.h",
+    "outputRevision": 69
+}

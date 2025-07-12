@@ -1,0 +1,76 @@
+{
+    "classes": [
+        {
+            "className": "ElaDrawerArea",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "read": "getBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBorderRadius"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pHeaderHeight",
+                    "notify": "pHeaderHeightChanged",
+                    "read": "getHeaderHeight",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setHeaderHeight"
+                }
+            ],
+            "qualifiedClassName": "ElaDrawerArea",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pHeaderHeightChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "isExpand",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "expandStateChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaDrawerArea.h",
+    "outputRevision": 69
+}

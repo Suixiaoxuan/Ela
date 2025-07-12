@@ -1,0 +1,64 @@
+{
+    "classes": [
+        {
+            "className": "ElaApplication",
+            "lineNumber": 11,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pWindowDisplayMode",
+                    "notify": "pWindowDisplayModeChanged",
+                    "read": "getWindowDisplayMode",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaApplicationType::WindowDisplayMode",
+                    "user": false,
+                    "write": "setWindowDisplayMode"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pElaMicaImagePath",
+                    "notify": "pElaMicaImagePathChanged",
+                    "read": "getElaMicaImagePath",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setElaMicaImagePath"
+                }
+            ],
+            "qualifiedClassName": "ElaApplication",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pWindowDisplayModeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pElaMicaImagePathChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaApplication.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,40 @@
+{
+    "classes": [
+        {
+            "className": "ElaDxgi",
+            "lineNumber": 13,
+            "object": true,
+            "qualifiedClassName": "ElaDxgi",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "img",
+                            "type": "QImage"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "grabScreenOver",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "onGrabScreen",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaDxgi.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,162 @@
+{
+    "classes": [
+        {
+            "className": "ElaNavigationStyle",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pOpacity",
+                    "name": "pOpacity",
+                    "notify": "pOpacityChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_pRotate",
+                    "name": "pRotate",
+                    "notify": "pRotateChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "member": "_pItemHeight",
+                    "name": "pItemHeight",
+                    "notify": "pItemHeightChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "member": "_pLastSelectMarkTop",
+                    "name": "pLastSelectMarkTop",
+                    "notify": "pLastSelectMarkTopChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "member": "_pLastSelectMarkBottom",
+                    "name": "pLastSelectMarkBottom",
+                    "notify": "pLastSelectMarkBottomChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "member": "_pSelectMarkTop",
+                    "name": "pSelectMarkTop",
+                    "notify": "pSelectMarkTopChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "member": "_pSelectMarkBottom",
+                    "name": "pSelectMarkBottom",
+                    "notify": "pSelectMarkBottomChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaNavigationStyle",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pOpacityChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pRotateChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pItemHeightChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pLastSelectMarkTopChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "pLastSelectMarkBottomChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "pSelectMarkTopChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "name": "pSelectMarkBottomChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaNavigationStyle.h",
+    "outputRevision": 69
+}

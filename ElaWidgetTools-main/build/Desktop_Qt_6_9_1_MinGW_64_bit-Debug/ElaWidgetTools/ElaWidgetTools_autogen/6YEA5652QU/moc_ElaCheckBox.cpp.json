@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "className": "ElaCheckBox",
+            "lineNumber": 7,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pBorderRadius",
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaCheckBox",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QCheckBox"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCheckBox.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaToolBarPrivate",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaToolBarPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaToolBarPrivate.h",
+    "outputRevision": 69
+}

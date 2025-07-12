@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaStatusBarStyle",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaStatusBarStyle",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaStatusBarStyle.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,152 @@
+{
+    "classes": [
+        {
+            "className": "ElaSuggestion",
+            "lineNumber": 12,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pElaIcon",
+                    "name": "pElaIcon",
+                    "notify": "pElaIconChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaIconType::IconName",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_pSuggestText",
+                    "name": "pSuggestText",
+                    "notify": "pSuggestTextChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "member": "_pSuggestKey",
+                    "name": "pSuggestKey",
+                    "notify": "pSuggestKeyChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "member": "_pSuggestData",
+                    "name": "pSuggestData",
+                    "notify": "pSuggestDataChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QVariantMap",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaSuggestion",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pElaIconChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pSuggestTextChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pSuggestKeyChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pSuggestDataChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "className": "ElaSuggestBoxPrivate",
+            "lineNumber": 32,
+            "object": true,
+            "qualifiedClassName": "ElaSuggestBoxPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onThemeModeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "searchText",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "onSearchEditTextEdit",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "QModelIndex"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "onSearchViewClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaSuggestBoxPrivate.h",
+    "outputRevision": 69
+}

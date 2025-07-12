@@ -1,0 +1,136 @@
+{
+    "classes": [
+        {
+            "className": "ElaCentralStackedWidget",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pPopupAnimationYOffset",
+                    "name": "pPopupAnimationYOffset",
+                    "notify": "pPopupAnimationYOffsetChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_pScaleAnimationRatio",
+                    "name": "pScaleAnimationRatio",
+                    "notify": "pScaleAnimationRatioChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "member": "_pScaleAnimationPixOpacity",
+                    "name": "pScaleAnimationPixOpacity",
+                    "notify": "pScaleAnimationPixOpacityChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "member": "_pFlipAnimationRatio",
+                    "name": "pFlipAnimationRatio",
+                    "notify": "pFlipAnimationRatioChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "member": "_pBlurAnimationRadius",
+                    "name": "pBlurAnimationRadius",
+                    "notify": "pBlurAnimationRadiusChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaCentralStackedWidget",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pPopupAnimationYOffsetChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pScaleAnimationRatioChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pScaleAnimationPixOpacityChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pFlipAnimationRatioChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "pBlurAnimationRadiusChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "onThemeModeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QStackedWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCentralStackedWidget.h",
+    "outputRevision": 69
+}

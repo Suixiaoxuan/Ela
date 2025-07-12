@@ -1,0 +1,109 @@
+{
+    "classes": [
+        {
+            "className": "ElaKeyBinder",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "read": "getBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBorderRadius"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pBinderKeyText",
+                    "notify": "pBinderKeyTextChanged",
+                    "read": "getBinderKeyText",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setBinderKeyText"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pNativeVirtualBinderKey",
+                    "notify": "pNativeVirtualBinderKeyChanged",
+                    "read": "getNativeVirtualBinderKey",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "quint32",
+                    "user": false,
+                    "write": "setNativeVirtualBinderKey"
+                }
+            ],
+            "qualifiedClassName": "ElaKeyBinder",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pBinderKeyTextChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pNativeVirtualBinderKeyChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "binderKeyText",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "binderKeyTextChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "binderKey",
+                            "type": "quint32"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "nativeVirtualBinderKeyChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QLabel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaKeyBinder.h",
+    "outputRevision": 69
+}

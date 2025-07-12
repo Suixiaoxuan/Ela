@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaSuggestModel",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaSuggestModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaSuggestModel.h",
+    "outputRevision": 69
+}

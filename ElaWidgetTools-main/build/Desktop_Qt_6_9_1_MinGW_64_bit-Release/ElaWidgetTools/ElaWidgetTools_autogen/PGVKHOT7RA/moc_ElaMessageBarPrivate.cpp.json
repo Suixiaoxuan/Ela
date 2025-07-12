@@ -1,0 +1,100 @@
+{
+    "classes": [
+        {
+            "className": "ElaMessageBarManager",
+            "lineNumber": 21,
+            "object": true,
+            "qualifiedClassName": "ElaMessageBarManager",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "className": "ElaMessageBarPrivate",
+            "lineNumber": 49,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "eventData",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "onOtherMessageBarEnd",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "eventData",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "messageBarEnd",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "displayMsec",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "_messageBarCreate",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pOpacity",
+                    "name": "pOpacity",
+                    "notify": "pOpacityChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaMessageBarPrivate",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pOpacityChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "onCloseButtonClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMessageBarPrivate.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaMenuBarStyle",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaMenuBarStyle",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMenuBarStyle.h",
+    "outputRevision": 69
+}

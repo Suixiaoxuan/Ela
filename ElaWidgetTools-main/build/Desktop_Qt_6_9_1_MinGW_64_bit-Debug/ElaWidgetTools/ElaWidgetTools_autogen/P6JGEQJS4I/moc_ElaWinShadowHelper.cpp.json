@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaWinShadowHelper",
+            "lineNumber": 19,
+            "object": true,
+            "qualifiedClassName": "ElaWinShadowHelper",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaWinShadowHelper.h",
+    "outputRevision": 69
+}

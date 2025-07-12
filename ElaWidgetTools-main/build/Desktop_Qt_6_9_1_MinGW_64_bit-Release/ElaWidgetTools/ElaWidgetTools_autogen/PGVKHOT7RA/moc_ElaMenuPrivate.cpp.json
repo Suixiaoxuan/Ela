@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "className": "ElaMenuPrivate",
+            "lineNumber": 11,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pAnimationImagePosY",
+                    "name": "pAnimationImagePosY",
+                    "notify": "pAnimationImagePosYChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaMenuPrivate",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pAnimationImagePosYChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMenuPrivate.h",
+    "outputRevision": 69
+}

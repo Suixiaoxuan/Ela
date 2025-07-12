@@ -1,0 +1,132 @@
+{
+    "classes": [
+        {
+            "className": "ElaWindowPrivate",
+            "lineNumber": 18,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "index": 7,
+                    "name": "onWMWindowClickedEvent",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "routeData",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "index": 8,
+                    "name": "onNavigationRouteBack",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "ElaWindowPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "onNavigationButtonClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "onThemeReadyChange",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "onDisplayModeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "onThemeModeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeType",
+                            "type": "ElaNavigationType::NavigationNodeType"
+                        },
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "isRouteBack",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "onNavigationNodeClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeType",
+                            "type": "ElaNavigationType::NavigationNodeType"
+                        },
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "page",
+                            "type": "QWidget*"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "onNavigationNodeAdded",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeType",
+                            "type": "ElaNavigationType::NavigationNodeType"
+                        },
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 6,
+                    "name": "onNavigationNodeRemoved",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaWindowPrivate.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,85 @@
+{
+    "classes": [
+        {
+            "className": "ElaLCDNumber",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pIsUseAutoClock",
+                    "notify": "pIsUseAutoClockChanged",
+                    "read": "getIsUseAutoClock",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsUseAutoClock"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pAutoClockFormat",
+                    "notify": "pAutoClockFormatChanged",
+                    "read": "getAutoClockFormat",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setAutoClockFormat"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pIsTransparent",
+                    "notify": "pIsTransparentChanged",
+                    "read": "getIsTransparent",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsTransparent"
+                }
+            ],
+            "qualifiedClassName": "ElaLCDNumber",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pIsUseAutoClockChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pAutoClockFormatChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pIsTransparentChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QLCDNumber"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaLCDNumber.h",
+    "outputRevision": 69
+}

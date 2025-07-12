@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaComboBoxPrivate",
+            "lineNumber": 11,
+            "object": true,
+            "qualifiedClassName": "ElaComboBoxPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onThemeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaComboBoxPrivate.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-091d46ee26ed31827596.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QUYU2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QUYU2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QUYU2-Debug-63c15492ba11a90616c9.json",
+					"name" : "QUYU2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QUYU2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QUYU2_autogen-Debug-ce61e7cec6092155f14d.json",
+					"name" : "QUYU2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QUYU2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QUYU2_autogen_timestamp_deps-Debug-cee775f7059c7d5859f0.json",
+					"name" : "QUYU2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Qt666/QUYU2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

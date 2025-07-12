@@ -1,0 +1,62 @@
+{
+    "classes": [
+        {
+            "className": "ElaListViewStyle",
+            "lineNumber": 7,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pItemHeight",
+                    "name": "pItemHeight",
+                    "notify": "pItemHeightChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_pIsTransparent",
+                    "name": "pIsTransparent",
+                    "notify": "pIsTransparentChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaListViewStyle",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pItemHeightChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pIsTransparentChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaListViewStyle.h",
+    "outputRevision": 69
+}

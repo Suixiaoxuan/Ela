@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaTreeViewPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaTreeViewPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTreeViewPrivate.h",
+    "outputRevision": 69
+}

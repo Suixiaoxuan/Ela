@@ -1,0 +1,44 @@
+{
+    "classes": [
+        {
+            "className": "ElaAppBarPrivate",
+            "lineNumber": 15,
+            "object": true,
+            "qualifiedClassName": "ElaAppBarPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "onMinButtonClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "onMaxButtonClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "onCloseButtonClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "onStayTopButtonClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaAppBarPrivate.h",
+    "outputRevision": 69
+}

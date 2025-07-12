@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaCalendarTitleDelegate",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaCalendarTitleDelegate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QStyledItemDelegate"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCalendarTitleDelegate.h",
+    "outputRevision": 69
+}

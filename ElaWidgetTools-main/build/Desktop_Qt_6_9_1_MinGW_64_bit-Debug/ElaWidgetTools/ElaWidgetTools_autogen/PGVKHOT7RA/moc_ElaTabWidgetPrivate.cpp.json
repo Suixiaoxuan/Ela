@@ -1,0 +1,68 @@
+{
+    "classes": [
+        {
+            "className": "ElaTabWidgetPrivate",
+            "lineNumber": 11,
+            "object": true,
+            "qualifiedClassName": "ElaTabWidgetPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onTabBarPress",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "drag",
+                            "type": "QDrag*"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "onTabDragCreate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "mimeData",
+                            "type": "const QMimeData*"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "onTabDragDrop",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "onTabCloseRequested",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTabWidgetPrivate.h",
+    "outputRevision": 69
+}

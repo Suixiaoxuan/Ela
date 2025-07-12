@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaBreadcrumbBarPrivate",
+            "lineNumber": 12,
+            "object": true,
+            "qualifiedClassName": "ElaBreadcrumbBarPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaBreadcrumbBarPrivate.h",
+    "outputRevision": 69
+}

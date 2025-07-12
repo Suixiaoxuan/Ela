@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "ElaCalendarDelegate",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaCalendarDelegate",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "onCalendarModelDisplayModeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QStyledItemDelegate"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCalendarDelegate.h",
+    "outputRevision": 69
+}

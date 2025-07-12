@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaKeyBinderPrivate",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaKeyBinderPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onThemeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaKeyBinderPrivate.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,159 @@
+{
+    "classes": [
+        {
+            "className": "ElaNavigationBar",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pIsTransparent",
+                    "notify": "pIsTransparentChanged",
+                    "read": "getIsTransparent",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsTransparent"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pIsAllowPageOpenInNewWindow",
+                    "notify": "pIsAllowPageOpenInNewWindowChanged",
+                    "read": "getIsAllowPageOpenInNewWindow",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsAllowPageOpenInNewWindow"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pNavigationBarWidth",
+                    "notify": "pNavigationBarWidthChanged",
+                    "read": "getNavigationBarWidth",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setNavigationBarWidth"
+                }
+            ],
+            "qualifiedClassName": "ElaNavigationBar",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pIsTransparentChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pIsAllowPageOpenInNewWindowChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pNavigationBarWidthChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "pageOpenInNewWindow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "userInfoCardClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeType",
+                            "type": "ElaNavigationType::NavigationNodeType"
+                        },
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "isRouteBack",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "navigationNodeClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeType",
+                            "type": "ElaNavigationType::NavigationNodeType"
+                        },
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "page",
+                            "type": "QWidget*"
+                        }
+                    ],
+                    "index": 6,
+                    "name": "navigationNodeAdded",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeType",
+                            "type": "ElaNavigationType::NavigationNodeType"
+                        },
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 7,
+                    "name": "navigationNodeRemoved",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaNavigationBar.h",
+    "outputRevision": 69
+}

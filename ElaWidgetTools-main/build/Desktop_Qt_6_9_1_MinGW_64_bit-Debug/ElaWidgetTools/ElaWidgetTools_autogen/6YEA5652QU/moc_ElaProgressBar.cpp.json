@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaProgressBar",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaProgressBar",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProgressBar"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaProgressBar.h",
+    "outputRevision": 69
+}

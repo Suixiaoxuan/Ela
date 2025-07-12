@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaCalendarPickerContainer",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaCalendarPickerContainer",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCalendarPickerContainer.h",
+    "outputRevision": 69
+}

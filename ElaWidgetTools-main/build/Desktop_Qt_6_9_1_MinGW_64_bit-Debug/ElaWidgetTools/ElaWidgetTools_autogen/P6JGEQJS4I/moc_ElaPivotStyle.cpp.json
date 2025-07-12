@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaPivotStyle",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaPivotStyle",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPivotStyle.h",
+    "outputRevision": 69
+}

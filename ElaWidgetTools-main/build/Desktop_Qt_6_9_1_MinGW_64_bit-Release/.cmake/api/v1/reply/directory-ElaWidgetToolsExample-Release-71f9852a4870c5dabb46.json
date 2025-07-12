@@ -1,0 +1,136 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"ElaWidgetToolsExample/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 117,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 118,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 119,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 130,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 133,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Qt666/ElaWidgetTools-main/Install/ElaWidgetToolsExample",
+			"paths" : 
+			[
+				"ElaWidgetToolsExample/ElaWidgetToolsExample.exe"
+			],
+			"targetId" : "ElaWidgetToolsExample::@f771b8fcf34c41544d45",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "C:/Qt666/ElaWidgetTools-main/Install/ElaWidgetToolsExample/platforms",
+			"paths" : 
+			[
+				"D:/Qt/6.6.2/msvc2019_64/plugins/platforms/qwindows.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "C:/Qt666/ElaWidgetTools-main/Install/ElaWidgetToolsExample/generic",
+			"paths" : 
+			[
+				"D:/Qt/6.6.2/msvc2019_64/plugins/generic/qtuiotouchplugin.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "C:/Qt666/ElaWidgetTools-main/Install/ElaWidgetToolsExample/imageformats",
+			"paths" : 
+			[
+				"D:/Qt/6.6.2/msvc2019_64/plugins/imageformats/qgif.dll",
+				"D:/Qt/6.6.2/msvc2019_64/plugins/imageformats/qicns.dll",
+				"D:/Qt/6.6.2/msvc2019_64/plugins/imageformats/qico.dll",
+				"D:/Qt/6.6.2/msvc2019_64/plugins/imageformats/qjpeg.dll",
+				"D:/Qt/6.6.2/msvc2019_64/plugins/imageformats/qtga.dll",
+				"D:/Qt/6.6.2/msvc2019_64/plugins/imageformats/qtiff.dll",
+				"D:/Qt/6.6.2/msvc2019_64/plugins/imageformats/qwbmp.dll",
+				"D:/Qt/6.6.2/msvc2019_64/plugins/imageformats/qwebp.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "C:/Qt666/ElaWidgetTools-main/Install/ElaWidgetToolsExample/styles",
+			"paths" : 
+			[
+				"D:/Qt/6.6.2/msvc2019_64/plugins/styles/qwindowsvistastyle.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "C:/Qt666/ElaWidgetTools-main/Install/ElaWidgetToolsExample",
+			"paths" : 
+			[
+				"D:/Qt/6.6.2/msvc2019_64/bin/Qt6Widgets.dll",
+				"D:/Qt/6.6.2/msvc2019_64/bin/Qt6Core.dll",
+				"D:/Qt/6.6.2/msvc2019_64/bin/Qt6Gui.dll",
+				"D:/Qt/6.6.2/msvc2019_64/bin/Qt6Network.dll",
+				"D:/Qt/6.6.2/msvc2019_64/bin/Qt6Xml.dll"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "ElaWidgetToolsExample",
+		"source" : "ElaWidgetToolsExample"
+	}
+}

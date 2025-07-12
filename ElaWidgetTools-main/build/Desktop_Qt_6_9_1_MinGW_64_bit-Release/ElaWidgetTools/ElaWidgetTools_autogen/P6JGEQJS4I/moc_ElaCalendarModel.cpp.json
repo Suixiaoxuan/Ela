@@ -1,0 +1,38 @@
+{
+    "classes": [
+        {
+            "className": "ElaCalendarModel",
+            "lineNumber": 37,
+            "object": true,
+            "qualifiedClassName": "ElaCalendarModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "date",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "currentYearMonthChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "displayModeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCalendarModel.h",
+    "outputRevision": 69
+}

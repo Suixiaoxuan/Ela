@@ -1,0 +1,222 @@
+{
+    "classes": [
+        {
+            "className": "ElaNavigationNode",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pChildrenNodes",
+                    "name": "pChildrenNodes",
+                    "notify": "pChildrenNodesChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QList<ElaNavigationNode*>",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_pAwesome",
+                    "name": "pAwesome",
+                    "notify": "pAwesomeChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaIconType::IconName",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "member": "_pModelIndex",
+                    "name": "pModelIndex",
+                    "notify": "pModelIndexChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QModelIndex",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "member": "_pKeyPoints",
+                    "name": "pKeyPoints",
+                    "notify": "pKeyPointsChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "member": "_pDepth",
+                    "name": "pDepth",
+                    "notify": "pDepthChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "member": "_pIsRootNode",
+                    "name": "pIsRootNode",
+                    "notify": "pIsRootNodeChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "member": "_pIsFooterNode",
+                    "name": "pIsFooterNode",
+                    "notify": "pIsFooterNodeChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "member": "_pIsHasFooterPage",
+                    "name": "pIsHasFooterPage",
+                    "notify": "pIsHasFooterPageChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 8,
+                    "member": "_pIsExpanderNode",
+                    "name": "pIsExpanderNode",
+                    "notify": "pIsExpanderNodeChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 9,
+                    "member": "_pIsVisible",
+                    "name": "pIsVisible",
+                    "notify": "pIsVisibleChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaNavigationNode",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pChildrenNodesChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pAwesomeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pModelIndexChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pKeyPointsChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "pDepthChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "pIsRootNodeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "name": "pIsFooterNodeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 7,
+                    "name": "pIsHasFooterPageChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 8,
+                    "name": "pIsExpanderNodeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "name": "pIsVisibleChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaNavigationNode.h",
+    "outputRevision": 69
+}

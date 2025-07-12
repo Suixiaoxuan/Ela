@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaDrawerContainer",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaDrawerContainer",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaDrawerContainer.h",
+    "outputRevision": 69
+}

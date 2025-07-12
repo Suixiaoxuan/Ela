@@ -1,0 +1,204 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"ElaWidgetTools/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 81,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 98,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 104,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 125,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "ElaWidgetTools/lib",
+			"paths" : 
+			[
+				"ElaWidgetTools/libElaWidgetTools.a"
+			],
+			"targetId" : "ElaWidgetTools::@6cf1ecb1ab6e004c669b",
+			"targetIndex" : 0,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "ElaWidgetTools/bin",
+			"paths" : 
+			[
+				"ElaWidgetTools/ElaWidgetTools.dll"
+			],
+			"targetId" : "ElaWidgetTools::@6cf1ecb1ab6e004c669b",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "C:/Qt666/ElaWidgetTools-main/Install/ElaWidgetToolsExample",
+			"paths" : 
+			[
+				"ElaWidgetTools/ElaWidgetTools.dll"
+			],
+			"targetId" : "ElaWidgetTools::@6cf1ecb1ab6e004c669b",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "ElaWidgetTools/include",
+			"paths" : 
+			[
+				"ElaWidgetTools/include/Def.h",
+				"ElaWidgetTools/include/ElaAcrylicUrlCard.h",
+				"ElaWidgetTools/include/ElaAppBar.h",
+				"ElaWidgetTools/include/ElaApplication.h",
+				"ElaWidgetTools/include/ElaBreadcrumbBar.h",
+				"ElaWidgetTools/include/ElaCalendar.h",
+				"ElaWidgetTools/include/ElaCalendarPicker.h",
+				"ElaWidgetTools/include/ElaCheckBox.h",
+				"ElaWidgetTools/include/ElaColorDialog.h",
+				"ElaWidgetTools/include/ElaComboBox.h",
+				"ElaWidgetTools/include/ElaContentDialog.h",
+				"ElaWidgetTools/include/ElaDockWidget.h",
+				"ElaWidgetTools/include/ElaDoubleSpinBox.h",
+				"ElaWidgetTools/include/ElaDrawerArea.h",
+				"ElaWidgetTools/include/ElaDxgiManager.h",
+				"ElaWidgetTools/include/ElaEventBus.h",
+				"ElaWidgetTools/include/ElaExponentialBlur.h",
+				"ElaWidgetTools/include/ElaFlowLayout.h",
+				"ElaWidgetTools/include/ElaGraphicsItem.h",
+				"ElaWidgetTools/include/ElaGraphicsLineItem.h",
+				"ElaWidgetTools/include/ElaGraphicsScene.h",
+				"ElaWidgetTools/include/ElaGraphicsView.h",
+				"ElaWidgetTools/include/ElaIcon.h",
+				"ElaWidgetTools/include/ElaIconButton.h",
+				"ElaWidgetTools/include/ElaImageCard.h",
+				"ElaWidgetTools/include/ElaInteractiveCard.h",
+				"ElaWidgetTools/include/ElaKeyBinder.h",
+				"ElaWidgetTools/include/ElaLCDNumber.h",
+				"ElaWidgetTools/include/ElaLineEdit.h",
+				"ElaWidgetTools/include/ElaListView.h",
+				"ElaWidgetTools/include/ElaLog.h",
+				"ElaWidgetTools/include/ElaMenu.h",
+				"ElaWidgetTools/include/ElaMenuBar.h",
+				"ElaWidgetTools/include/ElaMessageBar.h",
+				"ElaWidgetTools/include/ElaMessageButton.h",
+				"ElaWidgetTools/include/ElaMultiSelectComboBox.h",
+				"ElaWidgetTools/include/ElaNavigationBar.h",
+				"ElaWidgetTools/include/ElaNavigationRouter.h",
+				"ElaWidgetTools/include/ElaPivot.h",
+				"ElaWidgetTools/include/ElaPlainTextEdit.h",
+				"ElaWidgetTools/include/ElaPopularCard.h",
+				"ElaWidgetTools/include/ElaProgressBar.h",
+				"ElaWidgetTools/include/ElaProgressRing.h",
+				"ElaWidgetTools/include/ElaPromotionCard.h",
+				"ElaWidgetTools/include/ElaPromotionView.h",
+				"ElaWidgetTools/include/ElaPushButton.h",
+				"ElaWidgetTools/include/ElaRadioButton.h",
+				"ElaWidgetTools/include/ElaReminderCard.h",
+				"ElaWidgetTools/include/ElaRoller.h",
+				"ElaWidgetTools/include/ElaScrollArea.h",
+				"ElaWidgetTools/include/ElaScrollBar.h",
+				"ElaWidgetTools/include/ElaScrollPage.h",
+				"ElaWidgetTools/include/ElaScrollPageArea.h",
+				"ElaWidgetTools/include/ElaSlider.h",
+				"ElaWidgetTools/include/ElaSpinBox.h",
+				"ElaWidgetTools/include/ElaStatusBar.h",
+				"ElaWidgetTools/include/ElaSuggestBox.h",
+				"ElaWidgetTools/include/ElaTabBar.h",
+				"ElaWidgetTools/include/ElaTabWidget.h",
+				"ElaWidgetTools/include/ElaTableView.h",
+				"ElaWidgetTools/include/ElaText.h",
+				"ElaWidgetTools/include/ElaTheme.h",
+				"ElaWidgetTools/include/ElaToggleButton.h",
+				"ElaWidgetTools/include/ElaToggleSwitch.h",
+				"ElaWidgetTools/include/ElaToolBar.h",
+				"ElaWidgetTools/include/ElaToolButton.h",
+				"ElaWidgetTools/include/ElaToolTip.h",
+				"ElaWidgetTools/include/ElaTreeView.h",
+				"ElaWidgetTools/include/ElaWidget.h",
+				"ElaWidgetTools/include/ElaWindow.h",
+				"ElaWidgetTools/include/singleton.h",
+				"ElaWidgetTools/include/stdafx.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "ElaWidgetTools/lib/cmake",
+			"exportName" : "ElaWidgetTools",
+			"exportTargets" : 
+			[
+				{
+					"id" : "ElaWidgetTools::@6cf1ecb1ab6e004c669b",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"ElaWidgetTools/CMakeFiles/Export/0a725064e637b157163c54398f042a49/ElaWidgetToolsTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "ElaWidgetTools/lib/cmake",
+			"paths" : 
+			[
+				"build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElaWidgetTools/ElaWidgetToolsConfig.cmake",
+				"build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElaWidgetTools/ElaWidgetToolsConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "ElaWidgetTools",
+		"source" : "ElaWidgetTools"
+	}
+}

@@ -1,0 +1,341 @@
+{
+    "classes": [
+        {
+            "className": "ElaWindow",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pIsStayTop",
+                    "notify": "pIsStayTopChanged",
+                    "read": "getIsStayTop",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsStayTop"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pIsFixedSize",
+                    "notify": "pIsFixedSizeChanged",
+                    "read": "getIsFixedSize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsFixedSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pIsDefaultClosed",
+                    "notify": "pIsDefaultClosedChanged",
+                    "read": "getIsDefaultClosed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsDefaultClosed"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "pAppBarHeight",
+                    "notify": "pAppBarHeightChanged",
+                    "read": "getAppBarHeight",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setAppBarHeight"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "pCustomWidgetMaximumWidth",
+                    "notify": "pCustomWidgetMaximumWidthChanged",
+                    "read": "getCustomWidgetMaximumWidth",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setCustomWidgetMaximumWidth"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "name": "pThemeChangeTime",
+                    "notify": "pThemeChangeTimeChanged",
+                    "read": "getThemeChangeTime",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setThemeChangeTime"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "name": "pIsCentralStackedWidgetTransparent",
+                    "notify": "pIsCentralStackedWidgetTransparentChanged",
+                    "read": "getIsCentralStackedWidgetTransparent",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsCentralStackedWidgetTransparent"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "name": "pIsAllowPageOpenInNewWindow",
+                    "notify": "pIsAllowPageOpenInNewWindowChanged",
+                    "read": "getIsAllowPageOpenInNewWindow",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsAllowPageOpenInNewWindow"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 8,
+                    "name": "pIsNavigationBarEnable",
+                    "notify": "pIsNavigationBarEnableChanged",
+                    "read": "getIsNavigationBarEnable",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsNavigationBarEnable"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 9,
+                    "name": "pNavigationBarWidth",
+                    "notify": "pNavigationBarWidthChanged",
+                    "read": "getNavigationBarWidth",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setNavigationBarWidth"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 10,
+                    "name": "pCurrentStackIndex",
+                    "notify": "pCurrentStackIndexChanged",
+                    "read": "getCurrentStackIndex",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setCurrentStackIndex"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 11,
+                    "name": "pNavigationBarDisplayMode",
+                    "notify": "pNavigationBarDisplayModeChanged",
+                    "read": "getNavigationBarDisplayMode",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaNavigationType::NavigationDisplayMode",
+                    "user": false,
+                    "write": "setNavigationBarDisplayMode"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 12,
+                    "name": "pStackSwitchMode",
+                    "notify": "pStackSwitchModeChanged",
+                    "read": "getStackSwitchMode",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaWindowType::StackSwitchMode",
+                    "user": false,
+                    "write": "setStackSwitchMode"
+                }
+            ],
+            "qualifiedClassName": "ElaWindow",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pIsStayTopChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pIsFixedSizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pIsDefaultClosedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "pAppBarHeightChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "pCustomWidgetMaximumWidthChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "pThemeChangeTimeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "name": "pIsCentralStackedWidgetTransparentChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 7,
+                    "name": "pIsAllowPageOpenInNewWindowChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 8,
+                    "name": "pIsNavigationBarEnableChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "name": "pNavigationBarWidthChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 10,
+                    "name": "pCurrentStackIndexChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 11,
+                    "name": "pNavigationBarDisplayModeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 12,
+                    "name": "pStackSwitchModeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 13,
+                    "name": "userInfoCardClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 14,
+                    "name": "closeButtonClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeType",
+                            "type": "ElaNavigationType::NavigationNodeType"
+                        },
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 15,
+                    "name": "navigationNodeClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 16,
+                    "name": "customWidgetChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 17,
+                    "name": "pageOpenInNewWindow",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QMainWindow"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaWindow.h",
+    "outputRevision": 69
+}

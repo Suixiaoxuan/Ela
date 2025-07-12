@@ -1,0 +1,55 @@
+{
+    "classes": [
+        {
+            "className": "ElaColorDialog",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pCurrentColor",
+                    "notify": "pCurrentColorChanged",
+                    "read": "getCurrentColor",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QColor",
+                    "user": false,
+                    "write": "setCurrentColor"
+                }
+            ],
+            "qualifiedClassName": "ElaColorDialog",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pCurrentColorChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "color",
+                            "type": "QColor"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "colorSelected",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QDialog"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaColorDialog.h",
+    "outputRevision": 69
+}

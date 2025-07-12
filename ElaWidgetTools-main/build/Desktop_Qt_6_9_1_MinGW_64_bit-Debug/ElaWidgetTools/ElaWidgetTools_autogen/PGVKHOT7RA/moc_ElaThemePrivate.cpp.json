@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaThemePrivate",
+            "lineNumber": 11,
+            "object": true,
+            "qualifiedClassName": "ElaThemePrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaThemePrivate.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaRadioButtonStyle",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaRadioButtonStyle",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaRadioButtonStyle.h",
+    "outputRevision": 69
+}

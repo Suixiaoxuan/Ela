@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaPivotPrivate",
+            "lineNumber": 12,
+            "object": true,
+            "qualifiedClassName": "ElaPivotPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPivotPrivate.h",
+    "outputRevision": 69
+}

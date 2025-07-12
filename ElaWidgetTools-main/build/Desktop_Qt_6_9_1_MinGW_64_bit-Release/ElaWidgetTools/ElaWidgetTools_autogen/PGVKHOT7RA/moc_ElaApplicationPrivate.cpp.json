@@ -1,0 +1,46 @@
+{
+    "classes": [
+        {
+            "className": "ElaApplicationPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaApplicationPrivate",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "img",
+                            "type": "QImage"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "initMicaBase",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "onThemeModeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaApplicationPrivate.h",
+    "outputRevision": 69
+}

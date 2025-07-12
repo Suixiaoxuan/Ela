@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaMessageButtonPrivate",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaMessageButtonPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMessageButtonPrivate.h",
+    "outputRevision": 69
+}

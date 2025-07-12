@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaLCDNumberPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaLCDNumberPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onThemeModeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaLCDNumberPrivate.h",
+    "outputRevision": 69
+}

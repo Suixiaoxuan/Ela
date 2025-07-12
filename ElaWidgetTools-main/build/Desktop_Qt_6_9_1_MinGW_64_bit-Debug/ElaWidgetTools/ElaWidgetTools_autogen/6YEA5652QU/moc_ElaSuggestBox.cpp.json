@@ -1,0 +1,80 @@
+{
+    "classes": [
+        {
+            "className": "ElaSuggestBox",
+            "lineNumber": 11,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pBorderRadius",
+                    "notify": "pBorderRadiusChanged",
+                    "read": "getBorderRadius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBorderRadius"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pCaseSensitivity",
+                    "notify": "pCaseSensitivityChanged",
+                    "read": "getCaseSensitivity",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "Qt::CaseSensitivity",
+                    "user": false,
+                    "write": "setCaseSensitivity"
+                }
+            ],
+            "qualifiedClassName": "ElaSuggestBox",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pBorderRadiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pCaseSensitivityChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "suggestText",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "suggestData",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "suggestionClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaSuggestBox.h",
+    "outputRevision": 69
+}

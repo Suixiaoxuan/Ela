@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaToggleSwitch",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaToggleSwitch",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "checked",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "toggled",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaToggleSwitch.h",
+    "outputRevision": 69
+}

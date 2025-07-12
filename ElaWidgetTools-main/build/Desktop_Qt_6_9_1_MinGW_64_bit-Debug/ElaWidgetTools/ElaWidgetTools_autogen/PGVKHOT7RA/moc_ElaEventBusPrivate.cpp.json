@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "className": "ElaEventPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaEventPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "className": "ElaEventBusPrivate",
+            "lineNumber": 24,
+            "object": true,
+            "qualifiedClassName": "ElaEventBusPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaEventBusPrivate.h",
+    "outputRevision": 69
+}

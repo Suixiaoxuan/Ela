@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaCheckBoxStyle",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaCheckBoxStyle",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCheckBoxStyle.h",
+    "outputRevision": 69
+}

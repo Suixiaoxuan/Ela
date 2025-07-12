@@ -1,0 +1,43 @@
+{
+    "classes": [
+        {
+            "className": "ElaSpinBox",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pButtonMode",
+                    "notify": "pButtonModeChanged",
+                    "read": "getButtonMode",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ElaSpinBoxType::ButtonMode",
+                    "user": false,
+                    "write": "setButtonMode"
+                }
+            ],
+            "qualifiedClassName": "ElaSpinBox",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pButtonModeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QSpinBox"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaSpinBox.h",
+    "outputRevision": 69
+}

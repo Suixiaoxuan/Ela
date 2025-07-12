@@ -1,0 +1,97 @@
+{
+    "classes": [
+        {
+            "className": "ElaEvent",
+            "lineNumber": 11,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pEventName",
+                    "notify": "pEventNameChanged",
+                    "read": "getEventName",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setEventName"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pFunctionName",
+                    "notify": "pFunctionNameChanged",
+                    "read": "getFunctionName",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setFunctionName"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pConnectionType",
+                    "notify": "pConnectionTypeChanged",
+                    "read": "getConnectionType",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "Qt::ConnectionType",
+                    "user": false,
+                    "write": "setConnectionType"
+                }
+            ],
+            "qualifiedClassName": "ElaEvent",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pEventNameChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pFunctionNameChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pConnectionTypeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "className": "ElaEventBus",
+            "lineNumber": 27,
+            "object": true,
+            "qualifiedClassName": "ElaEventBus",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaEventBus.h",
+    "outputRevision": 69
+}

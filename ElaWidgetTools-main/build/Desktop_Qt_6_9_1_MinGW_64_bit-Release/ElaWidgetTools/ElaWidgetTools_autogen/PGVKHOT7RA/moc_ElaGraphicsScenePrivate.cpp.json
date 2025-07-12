@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaGraphicsScenePrivate",
+            "lineNumber": 12,
+            "object": true,
+            "qualifiedClassName": "ElaGraphicsScenePrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaGraphicsScenePrivate.h",
+    "outputRevision": 69
+}

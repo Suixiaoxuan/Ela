@@ -1,0 +1,76 @@
+{
+    "classes": [
+        {
+            "className": "ElaNavigationBarPrivate",
+            "lineNumber": 28,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "routeData",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "onNavigationRouteBack",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pNavigationViewWidth",
+                    "name": "pNavigationViewWidth",
+                    "notify": "pNavigationViewWidthChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaNavigationBarPrivate",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pNavigationViewWidthChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "onNavigationButtonClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "onNavigationOpenNewWindow",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaNavigationBarPrivate.h",
+    "outputRevision": 69
+}

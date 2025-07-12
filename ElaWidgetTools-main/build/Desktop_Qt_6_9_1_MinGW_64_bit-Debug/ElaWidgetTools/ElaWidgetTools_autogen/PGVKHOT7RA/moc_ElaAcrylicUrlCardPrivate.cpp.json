@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaAcrylicUrlCardPrivate",
+            "lineNumber": 11,
+            "object": true,
+            "qualifiedClassName": "ElaAcrylicUrlCardPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaAcrylicUrlCardPrivate.h",
+    "outputRevision": 69
+}

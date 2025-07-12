@@ -1,0 +1,64 @@
+{
+    "classes": [
+        {
+            "className": "ElaGraphicsView",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pMaxTransform",
+                    "notify": "pMaxTransformChanged",
+                    "read": "getMaxTransform",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setMaxTransform"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pMinTransform",
+                    "notify": "pMinTransformChanged",
+                    "read": "getMinTransform",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setMinTransform"
+                }
+            ],
+            "qualifiedClassName": "ElaGraphicsView",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pMaxTransformChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pMinTransformChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QGraphicsView"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaGraphicsView.h",
+    "outputRevision": 69
+}

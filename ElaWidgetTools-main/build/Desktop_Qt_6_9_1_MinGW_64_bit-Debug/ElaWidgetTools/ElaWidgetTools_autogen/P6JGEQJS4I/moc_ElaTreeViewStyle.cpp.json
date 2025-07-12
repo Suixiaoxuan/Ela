@@ -1,0 +1,62 @@
+{
+    "classes": [
+        {
+            "className": "ElaTreeViewStyle",
+            "lineNumber": 7,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pItemHeight",
+                    "name": "pItemHeight",
+                    "notify": "pItemHeightChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_pHeaderMargin",
+                    "name": "pHeaderMargin",
+                    "notify": "pHeaderMarginChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaTreeViewStyle",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pItemHeightChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pHeaderMarginChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTreeViewStyle.h",
+    "outputRevision": 69
+}

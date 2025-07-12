@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"ElaWidgetToolsExample/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "ElaWidgetTools::@6cf1ecb1ab6e004c669b"
+		}
+	],
+	"id" : "ElaWidgetToolsExample_autogen_timestamp_deps::@f771b8fcf34c41544d45",
+	"isGeneratorProvided" : true,
+	"name" : "ElaWidgetToolsExample_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "ElaWidgetToolsExample",
+		"source" : "ElaWidgetToolsExample"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

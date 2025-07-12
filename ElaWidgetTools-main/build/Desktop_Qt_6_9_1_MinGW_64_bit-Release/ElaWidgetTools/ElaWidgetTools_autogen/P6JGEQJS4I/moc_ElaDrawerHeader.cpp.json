@@ -1,0 +1,54 @@
+{
+    "classes": [
+        {
+            "className": "ElaDrawerHeader",
+            "lineNumber": 7,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pExpandIconRotate",
+                    "name": "pExpandIconRotate",
+                    "notify": "pExpandIconRotateChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaDrawerHeader",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pExpandIconRotateChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "isExpand",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "drawerHeaderClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaDrawerHeader.h",
+    "outputRevision": 69
+}

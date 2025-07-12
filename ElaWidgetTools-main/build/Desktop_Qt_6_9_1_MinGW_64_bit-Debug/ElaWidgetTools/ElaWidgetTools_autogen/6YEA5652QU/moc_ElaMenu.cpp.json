@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "ElaMenu",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaMenu",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "menuShow",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QMenu"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMenu.h",
+    "outputRevision": 69
+}

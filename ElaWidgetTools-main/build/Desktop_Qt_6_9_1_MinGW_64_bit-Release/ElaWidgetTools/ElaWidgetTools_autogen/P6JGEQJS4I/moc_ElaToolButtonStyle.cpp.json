@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "className": "ElaToolButtonStyle",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pExpandIconRotate",
+                    "name": "pExpandIconRotate",
+                    "notify": "pExpandIconRotateChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaToolButtonStyle",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pExpandIconRotateChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaToolButtonStyle.h",
+    "outputRevision": 69
+}

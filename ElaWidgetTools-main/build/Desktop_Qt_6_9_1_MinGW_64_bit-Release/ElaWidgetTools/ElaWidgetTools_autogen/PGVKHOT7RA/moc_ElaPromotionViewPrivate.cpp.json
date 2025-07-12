@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaPromotionViewPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaPromotionViewPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPromotionViewPrivate.h",
+    "outputRevision": 69
+}

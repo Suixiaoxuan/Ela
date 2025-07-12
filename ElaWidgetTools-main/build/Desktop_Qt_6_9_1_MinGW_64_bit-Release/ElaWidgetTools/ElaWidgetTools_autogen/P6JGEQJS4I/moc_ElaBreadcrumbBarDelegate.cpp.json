@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaBreadcrumbBarDelegate",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaBreadcrumbBarDelegate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QStyledItemDelegate"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaBreadcrumbBarDelegate.h",
+    "outputRevision": 69
+}

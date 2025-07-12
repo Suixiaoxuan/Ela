@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaStatusBar",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaStatusBar",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QStatusBar"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaStatusBar.h",
+    "outputRevision": 69
+}

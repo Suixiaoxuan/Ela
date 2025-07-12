@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaExponentialBlur",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaExponentialBlur",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaExponentialBlur.h",
+    "outputRevision": 69
+}

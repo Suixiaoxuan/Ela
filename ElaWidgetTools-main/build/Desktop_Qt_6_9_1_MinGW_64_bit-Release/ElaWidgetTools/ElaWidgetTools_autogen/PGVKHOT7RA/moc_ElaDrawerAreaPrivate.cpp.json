@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaDrawerAreaPrivate",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaDrawerAreaPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "isExpand",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onDrawerHeaderClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaDrawerAreaPrivate.h",
+    "outputRevision": 69
+}

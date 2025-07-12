@@ -1,0 +1,64 @@
+{
+    "classes": [
+        {
+            "className": "ElaListView",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pItemHeight",
+                    "notify": "pItemHeightChanged",
+                    "read": "getItemHeight",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setItemHeight"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pIsTransparent",
+                    "notify": "pIsTransparentChanged",
+                    "read": "getIsTransparent",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsTransparent"
+                }
+            ],
+            "qualifiedClassName": "ElaListView",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pItemHeightChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pIsTransparentChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QListView"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaListView.h",
+    "outputRevision": 69
+}

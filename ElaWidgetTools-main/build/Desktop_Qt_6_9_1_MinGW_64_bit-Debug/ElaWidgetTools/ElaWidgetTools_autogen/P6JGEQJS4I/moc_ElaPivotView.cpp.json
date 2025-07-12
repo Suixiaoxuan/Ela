@@ -1,0 +1,62 @@
+{
+    "classes": [
+        {
+            "className": "ElaPivotView",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pMarkX",
+                    "name": "pMarkX",
+                    "notify": "pMarkXChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_pMarkAnimationWidth",
+                    "name": "pMarkAnimationWidth",
+                    "notify": "pMarkAnimationWidthChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaPivotView",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pMarkXChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pMarkAnimationWidthChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QListView"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPivotView.h",
+    "outputRevision": 69
+}

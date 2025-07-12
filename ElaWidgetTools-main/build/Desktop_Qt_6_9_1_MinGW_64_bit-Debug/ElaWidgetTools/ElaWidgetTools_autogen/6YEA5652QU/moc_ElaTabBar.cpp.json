@@ -1,0 +1,56 @@
+{
+    "classes": [
+        {
+            "className": "ElaTabBar",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaTabBar",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "tabBarPress",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "drag",
+                            "type": "QDrag*"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "tabDragCreate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "mimeData",
+                            "type": "const QMimeData*"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "tabDragDrop",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QTabBar"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTabBar.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"ElaWidgetToolsExample/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ElaWidgetToolsExample_autogen_timestamp_deps::@f771b8fcf34c41544d45"
+		}
+	],
+	"id" : "ElaWidgetToolsExample_autogen::@f771b8fcf34c41544d45",
+	"isGeneratorProvided" : true,
+	"name" : "ElaWidgetToolsExample_autogen",
+	"paths" : 
+	{
+		"build" : "ElaWidgetToolsExample",
+		"source" : "ElaWidgetToolsExample"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElaWidgetToolsExample/CMakeFiles/ElaWidgetToolsExample_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElaWidgetToolsExample/CMakeFiles/ElaWidgetToolsExample_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElaWidgetToolsExample/ElaWidgetToolsExample_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaScrollPagePrivate",
+            "lineNumber": 15,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "routeData",
+                            "type": "QVariantMap"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onNavigationRouteBack",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "ElaScrollPagePrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaScrollPagePrivate.h",
+    "outputRevision": 69
+}

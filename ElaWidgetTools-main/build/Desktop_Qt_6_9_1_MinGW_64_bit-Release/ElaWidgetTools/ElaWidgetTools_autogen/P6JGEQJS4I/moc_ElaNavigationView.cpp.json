@@ -1,0 +1,58 @@
+{
+    "classes": [
+        {
+            "className": "ElaNavigationView",
+            "lineNumber": 11,
+            "object": true,
+            "qualifiedClassName": "ElaNavigationView",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "QModelIndex"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "navigationClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "nodeKey",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "navigationOpenNewWindow",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "pos",
+                            "type": "QPoint"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "onCustomContextMenuRequested",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QTreeView"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaNavigationView.h",
+    "outputRevision": 69
+}

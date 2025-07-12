@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaToolBar",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaToolBar",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QToolBar"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaToolBar.h",
+    "outputRevision": 69
+}

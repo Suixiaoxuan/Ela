@@ -1,0 +1,70 @@
+{
+    "classes": [
+        {
+            "className": "ElaScrollBar",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pIsAnimation",
+                    "notify": "pIsAnimationChanged",
+                    "read": "getIsAnimation",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsAnimation"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pSpeedLimit",
+                    "notify": "pSpeedLimitChanged",
+                    "read": "getSpeedLimit",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setSpeedLimit"
+                }
+            ],
+            "qualifiedClassName": "ElaScrollBar",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pIsAnimationChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pSpeedLimitChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "rangeAnimationFinished",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QScrollBar"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaScrollBar.h",
+    "outputRevision": 69
+}

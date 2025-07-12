@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "className": "ElaIconButtonPrivate",
+            "lineNumber": 11,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pHoverAlpha",
+                    "name": "pHoverAlpha",
+                    "notify": "pHoverAlphaChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaIconButtonPrivate",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pHoverAlphaChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaIconButtonPrivate.h",
+    "outputRevision": 69
+}

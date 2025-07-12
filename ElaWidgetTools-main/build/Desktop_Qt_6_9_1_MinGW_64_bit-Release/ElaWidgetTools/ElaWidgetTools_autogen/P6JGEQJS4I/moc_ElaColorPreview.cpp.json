@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaColorPreview",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaColorPreview",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaColorPreview.h",
+    "outputRevision": 69
+}

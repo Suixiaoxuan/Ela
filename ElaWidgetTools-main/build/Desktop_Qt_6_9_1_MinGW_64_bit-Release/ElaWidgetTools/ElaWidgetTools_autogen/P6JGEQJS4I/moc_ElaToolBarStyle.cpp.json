@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaToolBarStyle",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "ElaToolBarStyle",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QProxyStyle"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaToolBarStyle.h",
+    "outputRevision": 69
+}

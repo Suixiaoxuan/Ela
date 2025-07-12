@@ -1,0 +1,106 @@
+{
+    "classes": [
+        {
+            "className": "ElaGraphicsScene",
+            "lineNumber": 16,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pIsCheckLinkPort",
+                    "notify": "pIsCheckLinkPortChanged",
+                    "read": "getIsCheckLinkPort",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsCheckLinkPort"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pSerializePath",
+                    "notify": "pSerializePathChanged",
+                    "read": "getSerializePath",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setSerializePath"
+                }
+            ],
+            "qualifiedClassName": "ElaGraphicsScene",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pIsCheckLinkPortChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pSerializePathChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "showItemLink",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "item",
+                            "type": "ElaGraphicsItem*"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "mouseLeftClickedItem",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "item",
+                            "type": "ElaGraphicsItem*"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "mouseRightClickedItem",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "item",
+                            "type": "ElaGraphicsItem*"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "mouseDoubleClickedItem",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QGraphicsScene"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaGraphicsScene.h",
+    "outputRevision": 69
+}

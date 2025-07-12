@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaDockWidgetPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaDockWidgetPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "onThemeModeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaDockWidgetPrivate.h",
+    "outputRevision": 69
+}

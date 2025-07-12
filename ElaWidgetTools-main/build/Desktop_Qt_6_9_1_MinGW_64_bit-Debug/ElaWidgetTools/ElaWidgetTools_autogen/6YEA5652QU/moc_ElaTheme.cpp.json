@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaTheme",
+            "lineNumber": 14,
+            "object": true,
+            "qualifiedClassName": "ElaTheme",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "themeMode",
+                            "type": "ElaThemeType::ThemeMode"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "themeModeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTheme.h",
+    "outputRevision": 69
+}

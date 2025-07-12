@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaSuggestBoxSearchViewContainer",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaSuggestBoxSearchViewContainer",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaSuggestBoxSearchViewContainer.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaListViewPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaListViewPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaListViewPrivate.h",
+    "outputRevision": 69
+}

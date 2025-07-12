@@ -1,0 +1,55 @@
+{
+    "classes": [
+        {
+            "className": "ElaTableView",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pHeaderMargin",
+                    "notify": "pHeaderMarginChanged",
+                    "read": "getHeaderMargin",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setHeaderMargin"
+                }
+            ],
+            "qualifiedClassName": "ElaTableView",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pHeaderMarginChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "tableViewShow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "tableViewHide",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QTableView"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTableView.h",
+    "outputRevision": 69
+}

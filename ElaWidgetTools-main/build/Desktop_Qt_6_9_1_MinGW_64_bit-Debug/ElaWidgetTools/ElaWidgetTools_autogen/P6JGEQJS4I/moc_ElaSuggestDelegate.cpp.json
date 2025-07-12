@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaSuggestDelegate",
+            "lineNumber": 7,
+            "object": true,
+            "qualifiedClassName": "ElaSuggestDelegate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QStyledItemDelegate"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaSuggestDelegate.h",
+    "outputRevision": 69
+}

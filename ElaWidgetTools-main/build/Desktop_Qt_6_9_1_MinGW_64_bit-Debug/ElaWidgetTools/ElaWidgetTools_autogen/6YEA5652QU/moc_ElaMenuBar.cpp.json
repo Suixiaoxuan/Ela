@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaMenuBar",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaMenuBar",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QMenuBar"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMenuBar.h",
+    "outputRevision": 69
+}

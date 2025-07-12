@@ -1,0 +1,43 @@
+{
+    "classes": [
+        {
+            "className": "ElaScrollPage",
+            "lineNumber": 11,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pCustomWidget",
+                    "notify": "pCustomWidgetChanged",
+                    "read": "getCustomWidget",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QWidget*",
+                    "user": false,
+                    "write": "setCustomWidget"
+                }
+            ],
+            "qualifiedClassName": "ElaScrollPage",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pCustomWidgetChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaScrollPage.h",
+    "outputRevision": 69
+}

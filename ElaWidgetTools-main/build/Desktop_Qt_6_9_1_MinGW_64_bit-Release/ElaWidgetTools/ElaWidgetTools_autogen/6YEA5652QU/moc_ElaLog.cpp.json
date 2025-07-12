@@ -1,0 +1,97 @@
+{
+    "classes": [
+        {
+            "className": "ElaLog",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pLogSavePath",
+                    "notify": "pLogSavePathChanged",
+                    "read": "getLogSavePath",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setLogSavePath"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pLogFileName",
+                    "notify": "pLogFileNameChanged",
+                    "read": "getLogFileName",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setLogFileName"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "pIsLogFileNameWithTime",
+                    "notify": "pIsLogFileNameWithTimeChanged",
+                    "read": "getIsLogFileNameWithTime",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsLogFileNameWithTime"
+                }
+            ],
+            "qualifiedClassName": "ElaLog",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pLogSavePathChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "pLogFileNameChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "pIsLogFileNameWithTimeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "log",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "logMessage",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaLog.h",
+    "outputRevision": 69
+}

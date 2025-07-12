@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaInteractiveCardPrivate",
+            "lineNumber": 12,
+            "object": true,
+            "qualifiedClassName": "ElaInteractiveCardPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaInteractiveCardPrivate.h",
+    "outputRevision": 69
+}

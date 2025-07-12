@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaPlainTextEdit",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaPlainTextEdit",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QPlainTextEdit"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPlainTextEdit.h",
+    "outputRevision": 69
+}

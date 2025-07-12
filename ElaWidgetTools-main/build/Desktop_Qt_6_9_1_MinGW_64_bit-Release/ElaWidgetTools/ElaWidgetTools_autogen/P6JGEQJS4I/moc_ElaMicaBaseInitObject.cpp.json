@@ -1,0 +1,40 @@
+{
+    "classes": [
+        {
+            "className": "ElaMicaBaseInitObject",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "ElaMicaBaseInitObject",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "initFinished",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "img",
+                            "type": "QImage"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "onInitMicaBase",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaMicaBaseInitObject.h",
+    "outputRevision": 69
+}

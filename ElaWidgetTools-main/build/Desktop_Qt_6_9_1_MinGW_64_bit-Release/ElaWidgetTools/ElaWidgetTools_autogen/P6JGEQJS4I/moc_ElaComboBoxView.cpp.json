@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaComboBoxView",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "ElaComboBoxView",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "QModelIndex"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "itemPressed",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QListView"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaComboBoxView.h",
+    "outputRevision": 69
+}

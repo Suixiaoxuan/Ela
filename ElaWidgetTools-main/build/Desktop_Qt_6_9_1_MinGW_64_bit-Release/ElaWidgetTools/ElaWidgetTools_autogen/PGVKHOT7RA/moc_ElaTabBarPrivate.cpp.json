@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaTabBarPrivate",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ElaTabBarPrivate",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaTabBarPrivate.h",
+    "outputRevision": 69
+}

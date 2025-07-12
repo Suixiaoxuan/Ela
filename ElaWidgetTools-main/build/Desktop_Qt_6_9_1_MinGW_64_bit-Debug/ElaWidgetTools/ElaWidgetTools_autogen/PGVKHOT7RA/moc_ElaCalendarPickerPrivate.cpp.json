@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "ElaCalendarPickerPrivate",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaCalendarPickerPrivate",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "onCalendarPickerClicked",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "onCalendarSelectedDateChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCalendarPickerPrivate.h",
+    "outputRevision": 69
+}

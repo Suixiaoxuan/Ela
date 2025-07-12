@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaPivotModel",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "ElaPivotModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaPivotModel.h",
+    "outputRevision": 69
+}

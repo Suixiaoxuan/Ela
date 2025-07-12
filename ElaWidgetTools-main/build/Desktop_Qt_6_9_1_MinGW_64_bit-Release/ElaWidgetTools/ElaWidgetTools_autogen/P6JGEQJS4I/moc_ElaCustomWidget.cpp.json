@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "ElaCustomWidget",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaCustomWidget",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "customWidgetClosed",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QDialog"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaCustomWidget.h",
+    "outputRevision": 69
+}

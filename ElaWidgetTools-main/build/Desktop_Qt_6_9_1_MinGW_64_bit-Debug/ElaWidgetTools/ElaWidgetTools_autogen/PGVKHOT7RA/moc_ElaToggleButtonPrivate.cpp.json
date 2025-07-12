@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "className": "ElaToggleButtonPrivate",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_pToggleAlpha",
+                    "name": "pToggleAlpha",
+                    "notify": "pToggleAlphaChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ElaToggleButtonPrivate",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pToggleAlphaChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaToggleButtonPrivate.h",
+    "outputRevision": 69
+}

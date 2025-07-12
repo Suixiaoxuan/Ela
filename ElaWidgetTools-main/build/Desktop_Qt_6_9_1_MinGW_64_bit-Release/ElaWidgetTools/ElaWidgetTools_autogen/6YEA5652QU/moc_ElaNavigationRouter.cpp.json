@@ -1,0 +1,55 @@
+{
+    "classes": [
+        {
+            "className": "ElaNavigationRouter",
+            "lineNumber": 12,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pMaxRouteCount",
+                    "notify": "pMaxRouteCountChanged",
+                    "read": "getMaxRouteCount",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setMaxRouteCount"
+                }
+            ],
+            "qualifiedClassName": "ElaNavigationRouter",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "pMaxRouteCountChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "state",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "navigationRouterStateChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaNavigationRouter.h",
+    "outputRevision": 69
+}

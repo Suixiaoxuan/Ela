@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaNavigationModel",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ElaNavigationModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractItemModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaNavigationModel.h",
+    "outputRevision": 69
+}

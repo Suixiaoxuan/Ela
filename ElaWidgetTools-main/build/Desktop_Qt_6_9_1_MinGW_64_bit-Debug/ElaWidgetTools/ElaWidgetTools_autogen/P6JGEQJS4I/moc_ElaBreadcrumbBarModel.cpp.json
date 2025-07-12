@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ElaBreadcrumbBarModel",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "ElaBreadcrumbBarModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ElaBreadcrumbBarModel.h",
+    "outputRevision": 69
+}
