@@ -1,29 +1,29 @@
 {
-	"BUILD_DIR" : "C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QUYU2_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Qt666/QUYU2",
-	"CMAKE_SOURCE_DIR" : "C:/Qt666/QUYU2",
+	"BUILD_DIR" : "C:/Qt666/Ela/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QUYU2_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Qt666/Ela/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Qt666/Ela/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Qt666/Ela/QUYU2",
+	"CMAKE_SOURCE_DIR" : "C:/Qt666/Ela/QUYU2",
 	"CROSS_CONFIG" : false,
 	"GENERATOR" : "Ninja",
-	"INCLUDE_DIR" : "C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QUYU2_autogen/include",
+	"INCLUDE_DIR" : "C:/Qt666/Ela/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QUYU2_autogen/include",
 	"INPUTS" : 
 	[
-		"C:/Qt666/QUYU2/include/Image/Cirno.jpg",
-		"C:/Qt666/QUYU2/include/Image/Moon.jpg",
-		"C:/Qt666/QUYU2/include/Image/noise.png",
-		"C:/Qt666/QUYU2/include/Image/MicaBase.png",
-		"C:/Qt666/QUYU2/include/Font/ElaAwesome.ttf"
+		"C:/Qt666/Ela/QUYU2/include/Image/Cirno.jpg",
+		"C:/Qt666/Ela/QUYU2/include/Image/Moon.jpg",
+		"C:/Qt666/Ela/QUYU2/include/Image/noise.png",
+		"C:/Qt666/Ela/QUYU2/include/Image/MicaBase.png",
+		"C:/Qt666/Ela/QUYU2/include/Font/ElaAwesome.ttf"
 	],
-	"LOCK_FILE" : "C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/QUYU2_autogen.dir/AutoRcc_ElaWidgetTools_6YEA5652QU_Lock.lock",
+	"LOCK_FILE" : "C:/Qt666/Ela/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/QUYU2_autogen.dir/AutoRcc_ElaWidgetTools_6YEA5652QU_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "--no-zstd", "-name", "ElaWidgetTools" ],
 	"OUTPUT_CHECKSUM" : "6YEA5652QU",
 	"OUTPUT_NAME" : "qrc_ElaWidgetTools.cpp",
 	"RCC_EXECUTABLE" : "C:/Qt6/6.9.1/mingw_64/bin/rcc.exe",
 	"RCC_LIST_OPTIONS" : [ "--list" ],
-	"SETTINGS_FILE" : "C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/QUYU2_autogen.dir/AutoRcc_ElaWidgetTools_6YEA5652QU_Used.txt",
-	"SOURCE" : "C:/Qt666/QUYU2/include/ElaWidgetTools.qrc",
+	"SETTINGS_FILE" : "C:/Qt666/Ela/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/QUYU2_autogen.dir/AutoRcc_ElaWidgetTools_6YEA5652QU_Used.txt",
+	"SOURCE" : "C:/Qt666/Ela/QUYU2/include/ElaWidgetTools.qrc",
 	"USE_BETTER_GRAPH" : true,
 	"VERBOSITY" : 0
 }

@@ -1,7 +1,6 @@
 #include "mainwindow.h"
 #include "ElaApplication.h"
 #include "ElaWidget.h"
-
 #include <QApplication>
 
 int main(int argc, char *argv[])

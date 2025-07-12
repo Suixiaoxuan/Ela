@@ -1,5 +1,5 @@
-C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QUYU2_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Qt666/QUYU2/mainwindow.h \
-  C:/Qt666/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QUYU2_autogen/moc_predefs.h \
+C:/Qt666/Ela/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QUYU2_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Qt666/Ela/QUYU2/mainwindow.h \
+  C:/Qt666/Ela/QUYU2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QUYU2_autogen/moc_predefs.h \
   C:/Qt6/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt6/6.9.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt6/6.9.1/mingw_64/include/QtCore/q20iterator.h \

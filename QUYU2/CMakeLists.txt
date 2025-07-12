@@ -16,7 +16,6 @@ set(PROJECT_SOURCES
         main.cpp
         mainwindow.cpp
         mainwindow.h
-        mainwindow.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
@@ -50,7 +49,6 @@ include_directories(
 target_link_libraries(QUYU2 PRIVATE Qt${QT_VERSION_MAJOR}::Widgets
     ${PROJECT_SOURCE_DIR}/lib/libElaWidgetTools.a
 )
-
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
 # If you are developing for iOS or macOS you should consider setting an
